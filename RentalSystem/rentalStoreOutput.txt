@@ -1,0 +1,170 @@
+
+Movie Type: Z is invalid.
+
+Movie Type: Z is invalid.
+Comedy Movies: 
+Title: Annie Hall, Year Released: 1977, Stock: 10 
+Title: Fargo, Year Released: 1996, Stock: 10 
+Title: National Lampoon's Animal House, Year Released: 1978, Stock: 10 
+Title: Pirates of the Caribbean, Year Released: 2003, Stock: 10 
+Title: Sleepless in Seattle, Year Released: 1993, Stock: 10 
+Title: When Harry Met Sally, Year Released: 1989, Stock: 10 
+Title: You've Got Mail, Year Released: 1998, Stock: 10 
+Drama Movies: 
+Director: Barry Levinson, Title: Good Morning Vietnam, Stock:10 
+Director: Clint Eastwood, Title: Unforgiven, Stock:10 
+Director: Gus Van Sant, Title: Good Will Hunting, Stock:10 
+Director: Jonathan Demme, Title: Silence of the Lambs, Stock:10 
+Director: Nancy Savoca, Title: Dogfight, Stock:10 
+Director: Phillippe De Broca, Title: King of Hearts, Stock:10 
+Director: Steven Spielberg, Title: Schindler's List, Stock:10 
+Classic Movies: 
+Release Date: 9 1938, Major Actor: Cary Grant, Stock 10 
+Release Date: 9 1938, Major Actor: Katherine Hepburn, Stock 10 
+Release Date: 2 1939, Major Actor: Clark Gable, Stock 10 
+Release Date: 2 1939, Major Actor: Vivien Leigh, Stock 10 
+Release Date: 7 1939, Major Actor: Judy Garland, Stock 10 
+Release Date: 5 1940, Major Actor: Cary Grant, Stock 10 
+Release Date: 5 1940, Major Actor: Katherine Hepburn, Stock 10 
+Release Date: 10 1941, Major Actor: Humphrey Bogart, Stock 10 
+Release Date: 8 1942, Major Actor: Humphrey Bogart, Stock 10 
+Release Date: 8 1942, Major Actor: Ingrid Bergman, Stock 10 
+Release Date: 11 1946, Major Actor: Donna Reed, Stock 10 
+Release Date: 11 1946, Major Actor: James Steward, Stock 10 
+Release Date: 2 1971, Major Actor: Malcolm McDowell, Stock 10 
+Release Date: 3 1971, Major Actor: Ruth Gordon, Stock 10 
+No transaction history for Customer ID #1000
+No transaction history for Customer ID #5000
+No transaction history for Customer ID #8000
+Invalid Transaction 
+ERROR: Invalid Movie Type Z not allowed.Invalid Transaction 
+Invalid Transaction 
+Invalid Transaction 
+ERROR: Movie Silence of the Lambs not found.
+Invalid Transaction 
+You've Got MailInvalid Transaction 
+ERROR: Movie Dogfight not found.
+Invalid Transaction 
+Invalid Transaction 
+Invalid Transaction 
+ERROR: Movie Dogfight not found.
+Invalid Transaction 
+ERROR: Movie Unforgiven not found.
+Invalid Transaction 
+ERROR: ID 1234 not found. Cannot perform borrow.
+Invalid Transaction 
+ERROR: Movie Bogus Title not found.
+ERROR: Movie Bogus Title not found.
+Invalid Transaction 
+Comedy Movies: 
+Title: Annie Hall, Year Released: 1977, Stock: 9 
+Title: Fargo, Year Released: 1996, Stock: 7 
+Title: National Lampoon's Animal House, Year Released: 1978, Stock: 9 
+Title: Pirates of the Caribbean, Year Released: 2003, Stock: 10 
+Title: Sleepless in Seattle, Year Released: 1993, Stock: 9 
+Title: When Harry Met Sally, Year Released: 1989, Stock: 9 
+Title: You've Got Mail, Year Released: 1998, Stock: 9 
+Drama Movies: 
+Director: Barry Levinson, Title: Good Morning Vietnam, Stock:9 
+Director: Clint Eastwood, Title: Unforgiven, Stock:10 
+Director: Gus Van Sant, Title: Good Will Hunting, Stock:9 
+Director: Jonathan Demme, Title: Silence of the Lambs, Stock:10 
+Director: Nancy Savoca, Title: Dogfight, Stock:10 
+Director: Phillippe De Broca, Title: King of Hearts, Stock:7 
+Director: Steven Spielberg, Title: Schindler's List, Stock:6 
+Classic Movies: 
+Release Date: 9 1938, Major Actor: Cary Grant, Stock 9 
+Release Date: 9 1938, Major Actor: Katherine Hepburn, Stock 10 
+Release Date: 2 1939, Major Actor: Clark Gable, Stock 10 
+Release Date: 2 1939, Major Actor: Vivien Leigh, Stock 10 
+Release Date: 7 1939, Major Actor: Judy Garland, Stock 10 
+Release Date: 5 1940, Major Actor: Cary Grant, Stock 9 
+Release Date: 5 1940, Major Actor: Katherine Hepburn, Stock 9 
+Release Date: 10 1941, Major Actor: Humphrey Bogart, Stock 9 
+Release Date: 8 1942, Major Actor: Humphrey Bogart, Stock 10 
+Release Date: 8 1942, Major Actor: Ingrid Bergman, Stock 10 
+Release Date: 11 1946, Major Actor: Donna Reed, Stock 10 
+Release Date: 11 1946, Major Actor: James Steward, Stock 10 
+Release Date: 2 1971, Major Actor: Malcolm McDowell, Stock 9 
+ 
+Transaction History for Minnie Mouse 1000:
+B
+Good Morning Vietnam
+B
+Katherine
+Hepburn
+B
+Good Will Hunting
+B
+Cary
+Grant
+B
+Ruth
+Gordon
+B
+Bogus Title
+B
+Fargo
+B
+Bogus Title
+Transaction History for Mickey Mouse 1111:
+B
+Malcolm
+McDowell
+B
+Ruth
+Gordon
+B
+Humphrey
+Bogart
+B
+Cary
+Grant
+Transaction History for Freddie Frog 5000:
+B
+Ruth
+Gordon
+R
+Ruth
+Gordon
+B
+Ruth
+Gordon
+R
+Ruth
+Gordon
+B
+Ruth
+Gordon
+R
+Ruth
+Gordon
+B
+Ruth
+Gordon
+Transaction History for Wally Wacky 8000:
+B
+You've Got Mail
+R
+You've Got Mail
+B
+Ruth
+Gordon
+B
+Ruth
+Gordon
+B
+National Lampoon's Animal House
+Transaction History for Porky Pig 8888:
+B
+Annie Hall
+B
+When Harry Met Sally
+B
+Silence of the Lambs
+B
+Dogfight
+B
+Ruth
+Gordon
+Program ended with exit code: 0
