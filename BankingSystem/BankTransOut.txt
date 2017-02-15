@@ -1,0 +1,75 @@
+ERROR: Not enough funds to withdraw 20000 from Account 1001 Fund7
+Transaction History for Johnny Cash 1001:
+D 10010 542 
+D 10011 1542 
+D 10012 5442 
+D 10013 7540 
+D 10017 5442 
+D 10016 7542 
+D 10011 1500 
+D 10012 5000 
+D 10013 7000 
+D 10017 6543 
+D 10016 7576 
+W 10017 1000 
+W 10016 65 
+W 10010 72 
+T 10017 54 10015 
+T 10017 54 10015 
+W 10017 20000 
+Transaction History for Hank Williams 1253 by Fund4:
+D 12534 10000 
+ERROR: Not enough funds to withdraw 15000 from Account 1253 Fund2
+Transaction History for Hank Williams 1253:
+D 12530 10000 
+D 12531 10000 
+D 12532 10000 
+D 12533 10000 
+D 12534 10000 
+D 12535 10000 
+D 12536 10000 
+D 12537 10000 
+D 12538 10000 
+D 12539 10000 
+W 12532 15000 
+ERROR: Account 4356 not found.
+ERROR: Account 9876 is already open. Find a different ID.
+
+Processing Done. Final Balances
+
+Client Account:Johnny Cash 1001
+Fund0 $470
+Fund1 $3042
+Fund2 $10442
+Fund3 $14540
+Fund4 $0
+Fund5 $54
+Fund6 $15053
+Fund7 $11696
+Fund8 $0
+Fund9 $0
+
+Client Account:Hank Williams 1253
+Fund0 $10000
+Fund1 $10000
+Fund2 $10000
+Fund3 $10000
+Fund4 $10000
+Fund5 $10000
+Fund6 $10000
+Fund7 $10000
+Fund8 $10000
+Fund9 $9235
+
+Client Account:Willie Nelson 9876
+Fund0 $0
+Fund1 $0
+Fund2 $0
+Fund3 $0
+Fund4 $0
+Fund5 $0
+Fund6 $0
+Fund7 $0
+Fund8 $0
+Fund9 $0
+
